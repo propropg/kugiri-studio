@@ -13,7 +13,7 @@
 
 | OS | 入手方法 |
 |---|---|
-| Windows 10（1809 以降）/ 11 | [Releases](https://github.com/propropg/kugiri-studio/releases/latest) のインストーラ（`KugiriStudio-Setup-<版>.exe`）・ポータブル版（`KugiriStudio-Portable-<版>-x64.zip`） |
+| Windows 10（1809 以降）/ 11 | **[Microsoft Store](https://apps.microsoft.com/detail/9PGNB6313QZB)**（おすすめ。自動で更新されます）<br>または [Releases](https://github.com/propropg/kugiri-studio/releases/latest) のインストーラ（`KugiriStudio-Setup-<版>.exe`）・ポータブル版（`KugiriStudio-Portable-<版>-x64.zip`） |
 | macOS 12 以降 | [Releases](https://github.com/propropg/kugiri-studio/releases/latest) の dmg（Apple Silicon 用 `-arm64.dmg` / Intel 用 `-x64.dmg`） |
 
 インストーラ・ポータブル版・dmg はコード署名をしていないため、初回の起動時に Windows SmartScreen や macOS Gatekeeper の確認が出ます。許可の手順は、配布ファイルに入っている「はじめにお読みください」をご覧ください。
@@ -41,7 +41,7 @@
 
 This repository hosts the **downloads of Kugiri Studio** (no source code), a free viewer/editor for fixed-length, CSV, TSV and HL7 interface files. The user interface is in Japanese only.
 
-- **Windows 10 (1809+) / 11**: installer / portable zip on [Releases](https://github.com/propropg/kugiri-studio/releases/latest)
+- **Windows 10 (1809+) / 11**: [Microsoft Store](https://apps.microsoft.com/detail/9PGNB6313QZB) (recommended, auto-updates), or the installer / portable zip on [Releases](https://github.com/propropg/kugiri-studio/releases/latest)
 - **macOS 12+**: dmg on [Releases](https://github.com/propropg/kugiri-studio/releases/latest) (`-arm64` for Apple Silicon, `-x64` for Intel)
 
 Free for personal and commercial use. Modification, resale, paid redistribution and reverse engineering are not permitted. This is not open source software. Always back up important files before editing them.
